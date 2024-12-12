@@ -10,6 +10,7 @@ metadata:
 ---
 
 ## Beskrivelse
+OPDATERET..
 Vis en advarsel efter et antal minutters inaktivitet - ved fortsat inaktivitet logges brugeren automatisk ud.
 Dette script har til formål at sørge for at brugeren automatisk logges ud, hvis de skulle forlade maskinen uden selv at logge ud.
 
