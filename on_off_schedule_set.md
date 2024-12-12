@@ -6,8 +6,9 @@ compatibility:
   - "22.04"
   - "BorgerPC"
 metadata:
-  security: true
-  hidden: false
+  uid: "wake_plan_set"
+  security: false
+  hidden: true
 ---
 
 ## Beskrivelse

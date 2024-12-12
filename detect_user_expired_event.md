@@ -1,13 +1,12 @@
 ---
 title: "Detekter bruger expired"
 parent: "Sikkerhed"
-source: scripts/detect_user_expired_event.sh
+source: scripts/detect_user_expired_event.py
 compatibility:  
   - "22.04"
   - "BorgerPC"
 metadata:
   security: true
-  hidden: false
 ---
 
 ## Beskrivelse

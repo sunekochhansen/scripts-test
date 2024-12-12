@@ -26,10 +26,6 @@ parameters:
 compatibility:  
   - "22.04"
   - "BorgerPC"
-metadata:
-  uid: suspend_after_time
-  security: false
-  hidden: false
 ---
 
 ## Beskrivelse
