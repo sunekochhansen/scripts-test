@@ -1,7 +1,7 @@
 ---
 title: "Tænd/Sluk tidsplaner - aktiver"
 parent: "Sikkerhed"
-source: scripts/on_off_schedule_set.py
+source: scripts/on_off_schedule_set.sh
 compatibility:
   - "22.04"
   - "BorgerPC"

@@ -1,7 +1,7 @@
 ---
-title: "Log Borger ud efter X minutters inaktivitet"
+title: "Detekter bruger expired"
 parent: "Sikkerhed"
-source: scripts/detect_user_expired_event.py
+source: scripts/detect_user_expired_event.sh
 compatibility:  
   - "22.04"
   - "BorgerPC"
