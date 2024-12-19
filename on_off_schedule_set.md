@@ -1,5 +1,6 @@
 ---
 title: "Tænd/Sluk tidsplaner - aktiver"
+version: 1
 parent: "Sikkerhed"
 source: scripts/on_off_schedule_set.sh
 parameters:
